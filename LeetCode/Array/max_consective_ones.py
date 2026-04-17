@@ -1,3 +1,4 @@
+https://leetcode.com/problems/max-consecutive-ones/
 class Solution(object):
     def findMaxConsecutiveOnes(self, nums):
         count = 0
